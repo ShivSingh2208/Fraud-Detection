@@ -2,7 +2,6 @@
 
 A machine learning-based web application that detects fraudulent transactions in real time. This app is built with `scikit-learn` for modeling and `Streamlit` for the user interface.
 
-🔗 **Live Demo:** [fraud-detect-app-ml.streamlit.app](https://fraud-detect-app-ml.streamlit.app/) 
 
 ---
 
@@ -30,5 +29,4 @@ A machine learning-based web application that detects fraudulent transactions in
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Priyanshu7798/fraud_detection.git
-cd fraud_detection
+git clone https://github.com/ShivSingh2208/Fraud-Detection.git
